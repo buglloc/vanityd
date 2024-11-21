@@ -1,0 +1,9 @@
+- name: Mr.Duppl
+  slug:
+    - dppl
+    - duppl
+    - mrduppl
+    - mr-duppl
+    - mr.duppl
+  description: A simple USB Sniffer and Isolator
+  url: https://github.com/buglloc/mr.duppl
