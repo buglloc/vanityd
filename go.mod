@@ -4,7 +4,7 @@ go 1.23.2
 
 require (
 	github.com/go-chi/chi/v5 v5.2.0
-	github.com/goccy/go-yaml v1.15.14
+	github.com/goccy/go-yaml v1.15.15
 	github.com/rs/zerolog v1.33.0
 	go.uber.org/automaxprocs v1.6.0
 )
