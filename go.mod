@@ -1,10 +1,9 @@
 module github.com/buglloc/vanityd
 
 go 1.23.2
-
 require (
 	github.com/go-chi/chi/v5 v5.2.1
-	github.com/goccy/go-yaml v1.16.0
+	github.com/goccy/go-yaml v1.17.0
 	github.com/rs/zerolog v1.34.0
 	go.uber.org/automaxprocs v1.6.0
 )
