@@ -7,3 +7,10 @@
     - mr.duppl
   description: A simple USB Sniffer and Isolator
   url: https://github.com/buglloc/mr.duppl
+- name: H4ptiX
+  slug:
+    - h4x
+    - h4ptix
+    - haptix
+  description: A hardware/software solution designed to simulate physical interactions with YubiKey 
+  url: https://github.com/buglloc/h4ptix/
